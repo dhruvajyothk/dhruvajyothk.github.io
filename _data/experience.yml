@@ -11,7 +11,7 @@
   location: Hyderabad, India
   position: Sr. Java Full Stack Developer
   duration: Mar, 2018 &mdash; Nov, 2022
-  summary: <ul class="resume-item-list"><li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li><li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li><li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li><li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li><li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li></ul>
+  summary: <ul class="resume-item-list"><li>Involved in Requirements gathering, Analysis, Design, Development and Testing of application using AGILE methodology (SCRUM) in a test-driven development (TDD) approach.</li><li>Developed multiple enterprise applications using Spring Boot, Hibernate framework, Spring IOC, Spring MVC, Spring JDBC, Spring Annotations, Spring AOP, Spring Integration, frameworks, Restfulweb services.</li><li>Implemented authentication and authorization for the application using Spring Security and Oauth2.</li><li>Responsible for creating efficient design and developing User Interaction screens using HTML, CSS3, Bootstrap, JavaScript, Angular7/8.</li><li>Used Angular7/8 framework to create a Single Page Application (SPA) which can bind data to specific views and synchronize data with the server.</li><li>Implemented Spring Boot microservices to process the messages into the Kafka cluster setup.</li></ul>
 
 
 # Java Full Stack Developer
@@ -19,7 +19,7 @@
   location: Hyderabad, India
   position: Java Full Stack Developer
   duration: Dec, 2015  &mdash; Mar, 2018
-  summary: <ul class="resume-item-list"><li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li><li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li><li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li><li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li><li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li></ul>
+  summary: <ul class="resume-item-list"><li>Developed Client-Side Validations using Java Script and Server Side Validations using spring validation framework.</li><li>Designed and implemented DAO layer using Hibernate 3.0.</li><li>Implemented business tier using STRUTS and MVC.</li><li>Responsible for Unit testing with JUnit and support for Integration testing and User acceptance testing.</li></ul>
 
 
 # Java/J2EE Developer
@@ -27,4 +27,4 @@
   location: Hyderabad, India
   position: Java/J2EE Developer
   duration: Jul, 2011  &mdash; Nov, 2013
-  summary: <ul class="resume-item-list"><li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li><li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li><li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li><li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li><li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li></ul>
+  summary: <ul class="resume-item-list"><li>Working extensively on Spring MVC, Spring Batch, Hibernate, JSP and Java script.</li><li>Worked on UI changes on JSP pages for the worker screens that were used by state workers to process eligibility.</li><li>Developed the application using Model-View-Controller (MVC) architecture.</li><li>Used AngularJS to create views to hook up models to the DOM and synchronize data with server as a Single Page Application (SPA).</li><li>Used Bootstrap and AngularJS to create Controllers to handle events triggered by clients and send request to server.</li></ul>
