@@ -1,19 +1,50 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Sr. Java Full Stack Developer
+- company: Wiley
+  position: Sr. Java Full Stack Developer
+  duration: Dec, 2022 &mdash; Present
+  summary: <ul class="resume-item-list">
+    <li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li>
+    <li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li>
+    <li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li>
+    <li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li>
+    <li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li>
+  </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Sr. Java Full Stack Developer
+- company: BYJU's
+  position: Sr. Java Full Stack Developer
+  duration: Mar, 2018 &mdash; Nov, 2022
+  summary: <ul class="resume-item-list">
+    <li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li>
+    <li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li>
+    <li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li>
+    <li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li>
+    <li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li>
+  </ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Java Full Stack Developer
+- company: Wells Fargo
+  position: Java Full Stack Developer
+  duration: Dec, 2015  &mdash; Mar, 2018
+  summary: <ul class="resume-item-list">
+    <li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li>
+    <li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li>
+    <li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li>
+    <li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li>
+    <li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li>
+  </ul>
+
+
+# Java/J2EE Developer
+- company: Nokia
+  position: Java/J2EE Developer
+  duration: Jul, 2011  &mdash; Nov, 2013
+  summary: <ul class="resume-item-list">
+    <li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li>
+    <li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li>
+    <li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li>
+    <li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li>
+    <li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li>
+  </ul>
