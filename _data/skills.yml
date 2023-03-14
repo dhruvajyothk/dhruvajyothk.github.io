@@ -1,12 +1,52 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Programming Languages
+- skill: Programming Languages
+  description: Java/J2EE, SQL, PL/SQL
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Java APIs
+- skill: Java APIs
+  description: J2EE, EJB, Servlets, JSP, JSTL, Custom Tag Libraries, JAX-RPC, JDBC, JNDI, JMS, JAXB, JUnit, Mockito, AWT, Spring MVC, Hibernate, Spring AOP, Spring DAO, Spring Core, Spring Security, Spring REST, Spring Boot, JPA, Log4j, Apache Kafka
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Frameworks
+- skill: Frameworks
+  description: Spring, Hibernate, MEAN Stack
+
+# Scripting Languages
+- skill: Scripting Languages
+  description: JavaScript, Typescript, jQuery
+
+# Web Technologies
+- skill: Web Technologies
+  description: HTML/HTML5, XML, CSS/CSS3, Bootstrap, JSP, Ajax, NodeJS, Express, ReactJS, Angular 2.0 and above
+
+# Web/Application Servers
+- skill: Web/Application Servers
+  description: Apache Tomcat, WebSphere, Web Logic, Jboss
+
+# IDEs
+- skill: IDEs
+  description: Visual Studio Code, Eclipse, IntelliJ
+
+# Databases
+- skill: Databases
+  description: Oracle, MySQL,PostgreSQL,DB2,MongoDB,Cassandra
+
+# Operating Systems
+- skill: Operating Systems
+  description: Windows, MacOS, Unix, Linux (Ubuntu, Red Hat)
+
+# Version Control
+- skill: Version Control
+  description: CVS, Clear Case, SVN, GitHub, Bit bucket
+
+# Methodologies
+- skill: Methodologies
+  description: Agile, Waterfall
+
+# Other Software Tools
+- skill: Other Software Tools
+  description: MS Office, Visio, Adobe Photoshop, HPALM, JIRA
+
+# Build Tools
+- skill: Build Tools
+  description: Maven, Gradle, Ant
