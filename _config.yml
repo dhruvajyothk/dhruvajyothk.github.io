@@ -24,7 +24,22 @@ resume_header_contact_info:     "+1(819)919-5415 • dhruvajyothk@outlook.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>
-This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+• Around 7 years of professional experience in Cross-Platform (Web & Client-Server) application 
+ development and design using Object-Oriented Programming, Core Java, and J2EE technologies.<br>
+• Experience working in environments using Agile (SCRUM) and Test-Driven development (TDD) 
+ methodologies.<br>
+• Expertise in java 8 features such as Lambdas, Parallel Streams, filters & functional interfaces.<br>
+• Experience working on front end technologies - Angular and React JS.<br>
+• Have strong exposure and work experience on core java concepts collection API, Stream API, Parallel 
+ Streams, exception handling, Multithreading, HashMap, concurrency, JDBC, modularity, executor service, 
+ fork and join frameworks.<br>
+• Strong understanding of Microservices patterns -Hystrix, Aggregator, Proxy chaining.<br>
+• Implemented various Design patterns (Session Façade, Value Object, DAO, DTO, Command, Singleton, 
+ Factory, Adapter, MVC, Service Locator etc.) using J2EE technologies.<br>
+• Strong experience in Spring modules -Spring MVC, IOC, AOP, JDBC, JTA, IO, Spring Boot, Spring 
+ Microservices, Spring REST.<br>
+• Strong experience on Restful APIs & SOAP web services.
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
