@@ -1,12 +1,14 @@
 # Jobs
 # Sr. Java Full Stack Developer
 - company: Wiley
+  location: Toronto, ON
   position: Sr. Java Full Stack Developer
   duration: Dec, 2022 &mdash; Present
   summary: <ul class="resume-item-list"><li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li><li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li><li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li><li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li><li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li></ul>
 
 # Sr. Java Full Stack Developer
 - company: BYJU's
+  location: Hyderabad, India
   position: Sr. Java Full Stack Developer
   duration: Mar, 2018 &mdash; Nov, 2022
   summary: <ul class="resume-item-list"><li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li><li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li><li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li><li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li><li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li></ul>
@@ -14,6 +16,7 @@
 
 # Java Full Stack Developer
 - company: Wells Fargo
+  location: Hyderabad, India
   position: Java Full Stack Developer
   duration: Dec, 2015  &mdash; Mar, 2018
   summary: <ul class="resume-item-list"><li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li><li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li><li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li><li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li><li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li></ul>
@@ -21,6 +24,7 @@
 
 # Java/J2EE Developer
 - company: Nokia
+  location: Hyderabad, India
   position: Java/J2EE Developer
   duration: Jul, 2011  &mdash; Nov, 2013
   summary: <ul class="resume-item-list"><li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li><li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li><li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li><li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li><li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li></ul>
