@@ -3,13 +3,7 @@
 - company: Wiley
   position: Sr. Java Full Stack Developer
   duration: Dec, 2022 &mdash; Present
-  summary: <ul class="resume-item-list">
-  <li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li>
-    <li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li>
-    <li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li>
-    <li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li>
-    <li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li>
-  </ul>
+  summary: <ul class="resume-item-list"><li>Involved in developing user interface with HTML5, CSS3, SAAS, JSON, AJAX, React JS, Type script.</li><li>Used spring Boot properties like actuators and health checkers to enhance micro service implementations.</li><li>Used Apache Kafka (Message Queues) for reliable and asynchronous exchange of vital information between multiple business applications.</li><li>Documented the REST API's using Swagger API for briefing the services involved in the application.</li><li>Used Angular two-way binding and Implemented the search functionality for Internal Application using Angular.</li></ul>
 
 # Sr. Java Full Stack Developer
 - company: BYJU's
