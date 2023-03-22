@@ -18,7 +18,7 @@
 - company: Wells Fargo
   location: Hyderabad, India
   position: Java Full Stack Developer
-  duration: Dec, 2015  &mdash; Mar, 2018
+  duration: Jan, 2016  &mdash; Mar, 2018
   summary: <ul class="resume-item-list"><li>Developed Client-Side Validations using Java Script and Server Side Validations using spring validation framework.</li><li>Designed and implemented DAO layer using Hibernate 3.0.</li><li>Implemented business tier using STRUTS and MVC.</li><li>Responsible for Unit testing with JUnit and support for Integration testing and User acceptance testing.</li></ul>
 
 
@@ -26,5 +26,5 @@
 - company: Nokia
   location: Hyderabad, India
   position: Java/J2EE Developer
-  duration: Jul, 2011  &mdash; Nov, 2013
+  duration: Jul, 2012  &mdash; Nov, 2013
   summary: <ul class="resume-item-list"><li>Working extensively on Spring MVC, Spring Batch, Hibernate, JSP and Java script.</li><li>Worked on UI changes on JSP pages for the worker screens that were used by state workers to process eligibility.</li><li>Developed the application using Model-View-Controller (MVC) architecture.</li><li>Used AngularJS to create views to hook up models to the DOM and synchronize data with server as a Single Page Application (SPA).</li><li>Used Bootstrap and AngularJS to create Controllers to handle events triggered by clients and send request to server.</li></ul>
